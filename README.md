@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-MK-dev
+- 👋 Hi, I’m @MK-dev
 - 👀 I’m interested in Express and machine learning
 - 🌱 I’m currently learning bith of them
 - 💞️ I’m looking to collaborate on ...
