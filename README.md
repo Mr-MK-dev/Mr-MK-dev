@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MK-dev
-- 👀 I’m interested in Express and machine learning
+- 👀 I’m interested in NodeJs & machine learning
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mkcoder66@gmail.com
