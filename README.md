@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-MK-dev
-- 👀 I’m interesting in NodeJs & machine learning
+- 👀 I’m interested in NodeJs & machine learning
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on team interested in future vision and the algorithms
 - 📫 How to reach me mkcoder66@gmail.com
 
 <!---
